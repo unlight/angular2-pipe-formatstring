@@ -1,0 +1,1 @@
+Angular 2 Pipe Formatstring - wrapper of [formatstring](https://www.npmjs.com/package/formatstring)

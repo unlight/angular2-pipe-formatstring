@@ -1,9 +1,9 @@
 {
   "name": "angular2-pipe-formatstring",
   "version": "1.0.0",
-  "description": "",
- "main": "index.js",
-  "typings": "./index.d.ts",
+  "description": "Angular 2 Pipe Formatstring - wrapper of formatstring",
+  "main": "index.js",
+  "typings": "./dist/index.d.ts",
   "scripts": {
     "pretest": "npm run build",
     "test": "./node_modules/.bin/karma start",
@@ -16,7 +16,7 @@
     "url": "git+https://github.com/unlight/angular2-pipe-formatstring.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "XNet",
   "bugs": {
     "url": "https://github.com/unlight/angular2-pipe-formatstring/issues"
   },

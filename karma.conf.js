@@ -1,6 +1,6 @@
 module.exports = function (config) {
   config.set({
-    basePath: '',
+    basePath: 'src',
     frameworks: ['jasmine'],
 
     files: [

@@ -7,13 +7,14 @@
     "removeComments": true,
     "sourceMap": true,
     "declaration": true,
+    "rootDir": "src",
     "outDir": "dist"
   },
   "files": [
     "typings/main.d.ts",
-    "formatstring.d.ts",
-    "formatstring-pipe.ts",
-    "formatstring-pipe.spec.ts",
-    "index.ts"
+    "src/formatstring.d.ts",
+    "src/formatstring-pipe.ts",
+    "src/formatstring-pipe.spec.ts",
+    "src/index.ts"
   ]
 }
