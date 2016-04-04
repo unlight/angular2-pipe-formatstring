@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "removeComments": true,
+    "sourceMap": true,
+    "declaration": true,
+    "outDir": "dist"
+  },
+  "files": [
+    "typings/main.d.ts",
+    "formatstring.d.ts",
+    "formatstring-pipe.ts",
+    "formatstring-pipe.spec.ts",
+    "index.ts"
+  ]
+}
